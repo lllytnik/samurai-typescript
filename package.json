@@ -1,8 +1,8 @@
 {
   "name": "samurai-way",
+  "homepage": "https://lllytnik.github.io/samurai-typescript",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
   "dependencies": {
     "@testing-library/jest-dom": "5.14.1",
     "@testing-library/react": "12.0.0",
@@ -16,7 +16,7 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-redux": "7.2.6",
-    "react-router-dom": "5.3.0",
+    "react-router-dom": "^6.11.0",
     "react-scripts": "5.0.0",
     "react-test-renderer": "17.0.2",
     "redux": "4.1.2",

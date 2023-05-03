@@ -7,7 +7,7 @@ type LinksActiveType = {
 }
 
 export const NavBar = () => {
-    const setActive: any = ({ isActive }: LinksActiveType) => {
+    const setActive = ({ isActive }: LinksActiveType) => {
         return isActive ? s.activeLink : s.navLink;
     };
 
